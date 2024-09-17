@@ -11,7 +11,7 @@ Welcome to the Backend .NET Developemnt Roadmap! This repository is a curated li
 
 ### C#
 - [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) ---
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
 
